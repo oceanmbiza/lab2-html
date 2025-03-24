@@ -1,1 +1,1 @@
-This lab basically is intended to introduce the reader on how to write a well structured HTML5, understand the sematic html and why the https://validator.w3.org is very important to web develop for it help to write error free web apps.
+This lab basically is intended to introduce the reader on how to write a well structured HTML5, understand the sematic html and why the https://validator.w3.org is very important to web developer for it help to write error free web apps.
